@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License: Apache 2.0"></a>
-  <a href="https://github.com/robonet-ai/handumi-sw"><img src="https://img.shields.io/badge/Software-handumi--sw-4c8bf5.svg" alt="HandUMI software"></a>
-  <a href="https://robonet-ai.github.io/handumi-sw/"><img src="https://img.shields.io/badge/Docs-GitHub_Pages-AF0000.svg" alt="HandUMI documentation on GitHub Pages"></a>
+  <a href="https://github.com/murobotics-ai/handumi-sw"><img src="https://img.shields.io/badge/Software-handumi--sw-4c8bf5.svg" alt="HandUMI software"></a>
+  <a href="https://murobotics-ai.github.io/handumi-sw/"><img src="https://img.shields.io/badge/Docs-GitHub_Pages-AF0000.svg" alt="HandUMI documentation on GitHub Pages"></a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ One unit costs roughly $110 in parts, plus the VR headset of the user's
 preference (PICO 4 Ultra or Meta Quest 3).
 
 HandUMI demonstrations are robot-agnostic: collect the data once with the
-wearable hardware, then use the [HandUMI software](https://github.com/robonet-ai/handumi-sw)
+wearable hardware, then use the [HandUMI software](https://github.com/murobotics-ai/handumi-sw)
 to retarget it across different bimanual arms with parallel grippers.
 
 ## Why Teleoperation Is Not Scalable?
@@ -131,8 +131,8 @@ VR headset used for the shared tracking layer is a separate one-time purchase.
 - [Hardware](hardware/README.md)
 - [STL files](hardware/STL/)
 - [Bill of Materials](bom/README.md)
-- [Software](https://github.com/robonet-ai/handumi-sw)
-- [Documentation](https://robonet-ai.github.io/handumi-sw/)
+- [Software](https://github.com/murobotics-ai/handumi-sw)
+- [Documentation](https://murobotics-ai.github.io/handumi-sw/)
 
 ## Hand-Fit Design
 
